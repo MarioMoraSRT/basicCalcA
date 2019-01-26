@@ -1,0 +1,6 @@
+General:
+Disminuir en al menos un 5% los recursos economicos invertidos en pruebas de compatibilidad entre los streams del cliente y los dispositivos samsung desde el primer mes de su implementacion.
+Especificos: 
+Verificar si un stream es compatible con el 100% de los dispositivos samsung a los que se les brinda soporte (TV).
+Reducir un 20 a 30% el tiempo del desarrollo de una app. (al ya no tener que comprobar si un stream funciona o no).
+Reducir el tiempo de testeo de un stream en un 80% desde la implementacion del sistema.
